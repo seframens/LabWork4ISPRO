@@ -10,18 +10,11 @@ namespace LabWork4ISPRO.DbLayer.Services
 {
     public class UserService
     {
-        private readonly Ispp2112Context _context;
-
-        public UserService(Ispp2112Context context)
-        {
-            _context = context;
-        }
+        private readonly Ispp2112Context _context = new();
 
         // Получить всех пользователей
-        public IEnumerable<User> GetAll()
-        {
-            return _context.Users.Include(u => u.Role).ToList();
-        }
+        public async Task<List<User>> GetAllAsync() 
+            => await _context.Users.Include(u => u.Role).ToListAsync();
 
         // Найти пользователя по ID
         public User? GetById(int id)

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LabWork4ISPRO.DbLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4cbb5b073440f2110e4419f41b3078977514be0f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a99cfdef7b3e44c46afe7cc7af249c420c55c73")]
 [assembly: System.Reflection.AssemblyProductAttribute("LabWork4ISPRO.DbLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LabWork4ISPRO.DbLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

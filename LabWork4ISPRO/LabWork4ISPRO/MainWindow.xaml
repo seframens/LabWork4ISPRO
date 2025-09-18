@@ -21,8 +21,8 @@
             <Button x:Name="SearchButton" Content="Поиск" Width="75" Click="SearchButton_Click"/>
         </StackPanel>
 
-        <DataGrid Grid.Row="2" 
-                  x:Name="UserDataGrid"
+        <DataGrid x:Name="userDataGrid"
+                  Grid.Row="2"
                   AutoGenerateColumns="False"
                   CanUserAddRows="False">
             <DataGrid.Columns>

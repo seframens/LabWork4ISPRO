@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Temp\\!ISPP-21\\PapkaKirill\\LabWork4ISPRO\\LabWork4ISPRO\\",
+  "WorkspaceRootPath": "C:\\Temp\\ISPP-21\\ISRPO\\PapkaKirill\\LabWork4ISPRO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3B23A395-06FF-4FAB-BA73-B0D16763006E}|LabWork4ISPRO.DbLayer\\LabWork4ISPRO.DbLayer.csproj|c:\\temp\\!ispp-21\\papkakirill\\labwork4ispro\\labwork4ispro\\labwork4ispro.dblayer\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B23A395-06FF-4FAB-BA73-B0D16763006E}|LabWork4ISPRO.DbLayer\\LabWork4ISPRO.DbLayer.csproj|solutionrelative:labwork4ispro.dblayer\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B23A395-06FF-4FAB-BA73-B0D16763006E}|LabWork4ISPRO.DbLayer\\LabWork4ISPRO.DbLayer.csproj|c:\\temp\\!ispp-21\\papkakirill\\labwork4ispro\\labwork4ispro\\labwork4ispro.dblayer\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B23A395-06FF-4FAB-BA73-B0D16763006E}|LabWork4ISPRO.DbLayer\\LabWork4ISPRO.DbLayer.csproj|solutionrelative:labwork4ispro.dblayer\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Temp\\!ISPP-21\\PapkaKirill\\LabWork4ISPRO\\LabWork4ISPRO\\LabWork4ISPRO.DbLayer\\Models\\Ispp2112Context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LabWork4ISPRO.DbLayer\\Models\\Ispp2112Context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A88B710-DB63-489B-B9B5-B52EA7537155}|LabWork4ISPRO\\LabWork4ISPRO.csproj|c:\\temp\\!ispp-21\\papkakirill\\labwork4ispro\\labwork4ispro\\labwork4ispro\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{8A88B710-DB63-489B-B9B5-B52EA7537155}|LabWork4ISPRO\\LabWork4ISPRO.csproj|c:\\temp\\ispp-21\\isrpo\\papkakirill\\labwork4ispro\\labwork4ispro\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{8A88B710-DB63-489B-B9B5-B52EA7537155}|LabWork4ISPRO\\LabWork4ISPRO.csproj|solutionrelative:labwork4ispro\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A88B710-DB63-489B-B9B5-B52EA7537155}|LabWork4ISPRO\\LabWork4ISPRO.csproj|c:\\temp\\!ispp-21\\papkakirill\\labwork4ispro\\labwork4ispro\\labwork4ispro\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8A88B710-DB63-489B-B9B5-B52EA7537155}|LabWork4ISPRO\\LabWork4ISPRO.csproj|c:\\temp\\ispp-21\\isrpo\\papkakirill\\labwork4ispro\\labwork4ispro\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A88B710-DB63-489B-B9B5-B52EA7537155}|LabWork4ISPRO\\LabWork4ISPRO.csproj|solutionrelative:labwork4ispro\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B23A395-06FF-4FAB-BA73-B0D16763006E}|LabWork4ISPRO.DbLayer\\LabWork4ISPRO.DbLayer.csproj|c:\\temp\\ispp-21\\isrpo\\papkakirill\\labwork4ispro\\labwork4ispro.dblayer\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B23A395-06FF-4FAB-BA73-B0D16763006E}|LabWork4ISPRO.DbLayer\\LabWork4ISPRO.DbLayer.csproj|solutionrelative:labwork4ispro.dblayer\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B23A395-06FF-4FAB-BA73-B0D16763006E}|LabWork4ISPRO.DbLayer\\LabWork4ISPRO.DbLayer.csproj|c:\\temp\\ispp-21\\isrpo\\papkakirill\\labwork4ispro\\labwork4ispro.dblayer\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B23A395-06FF-4FAB-BA73-B0D16763006E}|LabWork4ISPRO.DbLayer\\LabWork4ISPRO.DbLayer.csproj|solutionrelative:labwork4ispro.dblayer\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B23A395-06FF-4FAB-BA73-B0D16763006E}|LabWork4ISPRO.DbLayer\\LabWork4ISPRO.DbLayer.csproj|c:\\temp\\ispp-21\\isrpo\\papkakirill\\labwork4ispro\\labwork4ispro.dblayer\\models\\ispp2112context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B23A395-06FF-4FAB-BA73-B0D16763006E}|LabWork4ISPRO.DbLayer\\LabWork4ISPRO.DbLayer.csproj|solutionrelative:labwork4ispro.dblayer\\models\\ispp2112context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,36 +30,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{ecb7191a-597b-41f5-9843-03a4cf275dde}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Temp\\!ISPP-21\\PapkaKirill\\LabWork4ISPRO\\LabWork4ISPRO\\LabWork4ISPRO.DbLayer\\Services\\UserService.cs",
+              "DocumentMoniker": "C:\\Temp\\ISPP-21\\ISRPO\\PapkaKirill\\LabWork4ISPRO\\LabWork4ISPRO.DbLayer\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "LabWork4ISPRO.DbLayer\\Services\\UserService.cs",
-              "ToolTip": "C:\\Temp\\!ISPP-21\\PapkaKirill\\LabWork4ISPRO\\LabWork4ISPRO\\LabWork4ISPRO.DbLayer\\Services\\UserService.cs",
+              "ToolTip": "C:\\Temp\\ISPP-21\\ISRPO\\PapkaKirill\\LabWork4ISPRO\\LabWork4ISPRO.DbLayer\\Services\\UserService.cs",
               "RelativeToolTip": "LabWork4ISPRO.DbLayer\\Services\\UserService.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAwwDcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-18T12:13:54.058Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "RoleService.cs",
-              "DocumentMoniker": "C:\\Temp\\!ISPP-21\\PapkaKirill\\LabWork4ISPRO\\LabWork4ISPRO\\LabWork4ISPRO.DbLayer\\Services\\RoleService.cs",
+              "DocumentMoniker": "C:\\Temp\\ISPP-21\\ISRPO\\PapkaKirill\\LabWork4ISPRO\\LabWork4ISPRO.DbLayer\\Services\\RoleService.cs",
               "RelativeDocumentMoniker": "LabWork4ISPRO.DbLayer\\Services\\RoleService.cs",
-              "ToolTip": "C:\\Temp\\!ISPP-21\\PapkaKirill\\LabWork4ISPRO\\LabWork4ISPRO\\LabWork4ISPRO.DbLayer\\Services\\RoleService.cs",
+              "ToolTip": "C:\\Temp\\ISPP-21\\ISRPO\\PapkaKirill\\LabWork4ISPRO\\LabWork4ISPRO.DbLayer\\Services\\RoleService.cs",
               "RelativeToolTip": "LabWork4ISPRO.DbLayer\\Services\\RoleService.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAwwDgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -68,24 +68,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Ispp2112Context.cs",
-              "DocumentMoniker": "C:\\Temp\\!ISPP-21\\PapkaKirill\\LabWork4ISPRO\\LabWork4ISPRO\\LabWork4ISPRO.DbLayer\\Models\\Ispp2112Context.cs",
+              "DocumentMoniker": "C:\\Temp\\ISPP-21\\ISRPO\\PapkaKirill\\LabWork4ISPRO\\LabWork4ISPRO.DbLayer\\Models\\Ispp2112Context.cs",
               "RelativeDocumentMoniker": "LabWork4ISPRO.DbLayer\\Models\\Ispp2112Context.cs",
-              "ToolTip": "C:\\Temp\\!ISPP-21\\PapkaKirill\\LabWork4ISPRO\\LabWork4ISPRO\\LabWork4ISPRO.DbLayer\\Models\\Ispp2112Context.cs",
+              "ToolTip": "C:\\Temp\\ISPP-21\\ISRPO\\PapkaKirill\\LabWork4ISPRO\\LabWork4ISPRO.DbLayer\\Models\\Ispp2112Context.cs",
               "RelativeToolTip": "LabWork4ISPRO.DbLayer\\Models\\Ispp2112Context.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-18T12:12:15.66Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Temp\\!ISPP-21\\PapkaKirill\\LabWork4ISPRO\\LabWork4ISPRO\\LabWork4ISPRO\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Temp\\ISPP-21\\ISRPO\\PapkaKirill\\LabWork4ISPRO\\LabWork4ISPRO\\MainWindow.xaml",
               "RelativeDocumentMoniker": "LabWork4ISPRO\\MainWindow.xaml",
-              "ToolTip": "C:\\Temp\\!ISPP-21\\PapkaKirill\\LabWork4ISPRO\\LabWork4ISPRO\\LabWork4ISPRO\\MainWindow.xaml",
+              "ToolTip": "C:\\Temp\\ISPP-21\\ISRPO\\PapkaKirill\\LabWork4ISPRO\\LabWork4ISPRO\\MainWindow.xaml",
               "RelativeToolTip": "LabWork4ISPRO\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-09-18T11:17:49.932Z",
@@ -93,13 +93,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Temp\\!ISPP-21\\PapkaKirill\\LabWork4ISPRO\\LabWork4ISPRO\\LabWork4ISPRO\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Temp\\ISPP-21\\ISRPO\\PapkaKirill\\LabWork4ISPRO\\LabWork4ISPRO\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "LabWork4ISPRO\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Temp\\!ISPP-21\\PapkaKirill\\LabWork4ISPRO\\LabWork4ISPRO\\LabWork4ISPRO\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Temp\\ISPP-21\\ISRPO\\PapkaKirill\\LabWork4ISPRO\\LabWork4ISPRO\\MainWindow.xaml.cs",
               "RelativeToolTip": "LabWork4ISPRO\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-18T11:17:48.187Z",
               "EditorCaption": ""
@@ -112,7 +112,7 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
               "$type": "Bookmark",
@@ -120,7 +120,21 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{cdbdee54-b399-484b-b763-db2c3393d646}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 400,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             }
           ]
         }

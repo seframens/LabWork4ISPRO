@@ -1,4 +1,5 @@
-﻿using System.Text;
+﻿using LabWork4ISPRO.DbLayer.Services;
+using System.Text;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -16,10 +17,25 @@ namespace LabWork4ISPRO
     /// </summary>
     public partial class MainWindow : Window
     {
+        private readonly UserService _userService = new();
         public MainWindow()
         {
             InitializeComponent();
+
+            LoadUser();
         }
+
+        private async Task LoadUser()
+        {
+            try
+            {
+                userDataGrid.ItemsSource = await _userService.GetAllAsync(); 
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+        } 
 
         private void SearchButton_Click(object sender, RoutedEventArgs e)
         {
