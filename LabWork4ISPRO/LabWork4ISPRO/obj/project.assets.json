@@ -8,23 +8,23 @@
     "net8.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\0109-12\\.nuget\\packages\\": {},
+    "C:\\Users\\0109-11\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Temp\\ISPP-21\\ISRPO\\LabWork4\\LabWork4ISPRO\\LabWork4ISPRO\\LabWork4ISPRO\\LabWork4ISPRO.csproj",
+      "projectUniqueName": "C:\\Temp\\!ISPP-21\\PapkaKirill\\LabWork4ISPRO\\LabWork4ISPRO\\LabWork4ISPRO\\LabWork4ISPRO.csproj",
       "projectName": "LabWork4ISPRO",
-      "projectPath": "C:\\Temp\\ISPP-21\\ISRPO\\LabWork4\\LabWork4ISPRO\\LabWork4ISPRO\\LabWork4ISPRO\\LabWork4ISPRO.csproj",
-      "packagesPath": "C:\\Users\\0109-12\\.nuget\\packages\\",
-      "outputPath": "C:\\Temp\\ISPP-21\\ISRPO\\LabWork4\\LabWork4ISPRO\\LabWork4ISPRO\\LabWork4ISPRO\\obj\\",
+      "projectPath": "C:\\Temp\\!ISPP-21\\PapkaKirill\\LabWork4ISPRO\\LabWork4ISPRO\\LabWork4ISPRO\\LabWork4ISPRO.csproj",
+      "packagesPath": "C:\\Users\\0109-11\\.nuget\\packages\\",
+      "outputPath": "C:\\Temp\\!ISPP-21\\PapkaKirill\\LabWork4ISPRO\\LabWork4ISPRO\\LabWork4ISPRO\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\0109-12\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\0109-11\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -32,7 +32,6 @@
         "net8.0-windows"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
